@@ -1,0 +1,105 @@
+Tom: F
+		
+FILL:
+
+    p  i m i   p  i m i   p  i m i   p i ^
+E |----------|----------|----------|-----3----||
+B |----------|----------|----------|-----5----||
+G |----------|----------|----------|-----3----||
+D |------0---|------0---|------0---|---5-5----||
+A |----3---3-|----3---3-|----3---3-|-3---3----||
+E |-1--------|-2--------|-3--------|----------||
+
+
+------------------------------------------------------
+Play INTRO once:
+
+    p  i m i   p  i m i   p  i m i   ^ v ^
+E |----------|----------|----------|-3-5-3----||
+B |----------|----------|----------|-5-5-5----||
+G |----------|----------|----------|-3-3-3----||
+D |------0---|------0---|------0---|-5-5-5----||
+A |----3---3-|----3---3-|----3---3-|-3-3-3----||
+E |-1--------|-2--------|-3--------|----------||
+------------------------------------------------------
+
+CHORUS:
+F                      (Bb7    Am) Gm
+
+I don't want to set the world  on  fire,
+
+Bbm C7                                 Play FILL once
+I   just want to start a flame in your heart.
+F                     (Bb7 Am)Gm
+In my heart I have but one de-sir-e,
+
+Bbm C7                             F Bbm F
+and that one is you, no other will do-o-o.
+------------------------------------------------------
+BRIDGE 1:
+
+     C7          F7         C7         C7
+I've lost all am-bition for worldly ac-claim;
+
+Bb
+I just want to be the one you lo-ove.
+
+    Dm7          G7           Dm7          G7
+And with your ad-mission that you feel the same,
+
+                                        C7
+
+I'll have reached the goal I'm dreaming of, believe me.
+------------------------------------------------------
+
+BRIDGE 2:
+F                      (Bb7   Am)Gm
+I don't want to set the world on fire,
+
+Bbm C7                                 Play FILL once
+I   just want to start a flame in your heart.
+
+------------------------------------------------------
+
+SPOKEN, play CHORUS throughout.
+
+I don't wanna set the world on fire, honey. I love you too much.
+I just wanna start a great big flame down in your heart.
+You see, way down inside of me, darling, I have only one desire.
+
+And that one desire is you and I know nobody else ain't gonna do.
+------------------------------------------------------
+
+
+Play BRIDGE 1
+------------------------------------------------------
+
+F                      (Bb7   Am)Gm
+I don't want to set the world on fire,
+
+Bbm C7                                 F  Bb F
+I   just want to start a flame in your hea-a-art.
+
+
+LEGEND:
+^ = down strum (eadgbe)
+v = up strum (ebgdae)
+() = optional
+p = right hand thumb
+i = right hand index finger
+m = right hand middle finger
+a = right hand ring finger
+c = right hand little finger
+
+CHORDS USED:
+     eadgbe
+Am:  577555
+Bb:  x13331
+Bbm: x13321
+Bb7: 686766
+C7:  x32310
+Dm7: x57565
+F:   133211
+F7:  131211
+Gm:  355333
+

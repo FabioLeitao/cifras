@@ -1,0 +1,90 @@
+Tom: C
+		
+Intro: C  Am7  Dm7
+
+
+Dedilhado da Intro:
+    C
+e|-----0--0-----0------|
+B|-----1--1-----1------|
+G|-----0--0-----0------|
+D|---------------------|
+A|--3--------3---------|
+E|---------------------|
+ 
+   Am7
+e|-----0--0-----0-----|
+B|-----1--1-----1-----|
+G|-----0--0-----0-----|
+D|--------------------|
+A|--0--------0--------|
+E|--------------------|
+
+    Dm7
+e|-----1--1-----1-----|
+B|-----1--1-----1-----|
+G|-----2--2-----2-----|
+D|--0--------0--------|
+A|--------------------|
+E|--------------------|
+
+    G6      G6/9-
+e|-----0--0----0------|
+B|-----0--0----0------|
+G|-----0--0----1------|
+D|--------------------|
+A|--------------------|
+E|--3-------3---------|
+
+  C                  C9
+Smile, though your heart is aching,
+C7+              C9
+   Smile, even though it's breaking;
+Em7                 D#º           Dm7            A4(7) A7
+   When there are clouds in the sky, you'll get by
+
+          Dm7
+ If you smile through your fear and sorrow,
+Fm               Fm/Bb
+  Smile, and maybe tomorrow
+C                Am7                Dm7           G6    G6(9-)
+ You'll see the sun come shining through     for you.
+
+ C             C9
+Light up your face with gladness,
+C7+             C9
+   Hide every trace of sadness,
+Em7            D#º        Dm7          A4(7) A7
+   Although a tear may be ev - er  so near,
+
+            Dm7
+That's the time you must keep on trying,
+Fm                   Fm/Bb
+  Smile - what's the use of crying?
+C                   Am7                  Dm7
+  You'll find that life is still worth while
+
+    G6     G6(9-)
+If you'll just smile.
+
+( C  C9  C7M  C9  Em7  D#º  Dm7  G6  G6(9-) )
+
+            Dm7
+That's the time you must keep on trying,
+Fm                   Fm/Bb
+  Smile - what's the use of crying?
+C                   Am7                  Dm7
+  You'll find that life is still worth while
+    G6     G6(9-)  F7M  Fm  C
+If you'll just   smile.
+
+
+Dedilhado Final:
+    F7M         Fm          C
+E|-----0-----0-----1-----1-----0-----0-|
+B|-----1-----1-----1-----1-----1-----1-|
+G|-----2-----2-----1-----1-----0-----0-|
+D|--3-----3-----3-----3----------------|
+A|--------------------------3-----3----|
+E|-------------------------------------|
+

@@ -1,0 +1,241 @@
+(intro)
+
+    A   B C#   D  C# B   E
+G |-----------------7--6------9-9-9-9---|
+D |-----7--9/11----7-----9-7--9-9-9-9---|
+A |---7----9/11---5-----------7-7-7-7---|
+E |-5------7/9--------------------------|
+
+   A  B C#    E
+G |----------9-9-9---9-9-9-9-9-9-9---|
+D |-7--9/11--9-9-9---9-9-9-9-9-9-9---|
+A |-7--9/11--7-7-7---7-7-7-7-7-7-7---|
+E |-5--7/9---------------------------|
+
+( A C#m D E ) (2x)
+
+(o riff 1 (assim como os outros riffs) deve ser tocado no final das frases quando for indicado)
+
+(riff 1)
+G |-7/9--9--9--9--9------|
+D |---9--9--9--9--9------|
+
+(riff 2)
+G |----11-----11---------|
+D |--9------9------------|
+
+(riff 3)
+G |--7/11--11--11-11-----|
+D |----11--11--11-11-----|
+
+(riff 4)
+G |--11--9---11----------|
+D |--11--11--11----------|
+
+(riff 5)
+B |--3--2----------------|
+G |--------4--2----------|
+D |--------------4-------|
+
+  A            C#m
+Você me faz correr demais
+   E                   (riff 1)
+Os riscos desta highway
+  A            C#m
+Você me faz correr atrás
+        E                  (riff 1)
+Do horizonte desta highway
+    A                C#m
+Ninguém por perto, silêncio no deserto
+   E            (riff 1)
+Deserta highway
+  A             C#m
+Estamos sós e nenhum de nós
+E
+Sabe exatamente onde vai parar
+  D                    E
+Mas não precisamos saber pra onde vamos
+F#m                  (riff 2)
+Nós só precisamos ir
+ D            E
+Não queremos ter o que não temos
+F#m                   (riff 3)
+Nós só queremos viver
+ D              E
+Sem motivos nem objetivos
+  A                    F#m
+Estamos vivos e isto é tudo
+               D (riff 5) E
+É sobretudo a lei
+             A      C#m D E
+Da infinita highway
+
+  A                  C#m
+Quando eu vivia e morria na cidade
+E
+Eu não tinha nada, nada a temer
+ A                 C#m
+Mas eu tinha medo, medo desta estrada
+E
+Olhe só, veja você
+  A                  C#m
+Quando eu vivia e morria na cidade
+E
+Eu tinha de tudo, tudo ao meu redor
+    A                          C#m
+Mas tudo que eu sentia era que algo me faltava
+     E
+E à noite eu acordava banhado em suor
+
+ D               E
+Não queremos lembrar o que esquecemos
+F#m                   (riff 4)
+Nós só queremos viver
+ D                 E
+Não queremos aprender o que sabemos
+F#m                    (riff 3)
+Não queremos nem saber
+ D              E
+Sem motivos nem objetivos
+  A               F#m
+Estamos vivos e é só
+                 D (riff 5) E
+Só obedecemos à lei
+             A       C#m      D E
+Da infinita highway
+   A                    C#m
+Escute garota, o vento canta uma canção
+E
+Dessas que a gente nunca canta sem razão
+   A                       C#m
+Me diga, garota) "Será a estrada uma prisão?"
+   E
+          G|-11b13--13r11--11--9--|
+Eu acho que sim, você finge que não
+     A               C#m
+Mas nem por isso ficaremos parados
+        E
+Com a cabeça nas nuvens e os pés no chão
+A                             C#m
+Tudo bem, garota, não adianta mesmo ser livre
+    E
+Se tanta gente vive sem ter como viver
+   D              E
+Estamos sós e nenhum de nós
+F#m
+Sabe onde quer chegar
+  D            E
+Estamos vivos sem motivos
+      F#m
+Que motivos temos pra estar?
+   D                   E
+Atrás de palavras escondidas
+         A                         F#m     D (riff 5) E
+Nas entrelinhas do horizonte desta highway
+            A       C#m      D E
+Silenciosa highway
+
+( A C#m D E ) (2x)
+
+   A                C#m
+Eu vejo o horizonte trêmulo
+   D              E
+Eu tenho os olhos úmidos
+   A                   C#m
+Eu posso estar completamente enganado
+            D               E
+Eu posso estar correndo pro lado errado
+      A                     C#m
+Mas a dúvida é o preço da pureza
+     D            E
+E é inútil ter certeza
+   A                C#m
+Eu vejo as placas dizendo "Não corra",
+D            E
+ "Não morra", "Não fume"
+   A                 C#m
+Eu vejo as placas cortando o horizonte
+       D                  E
+Elas parecem facas de dois gumes
+
+(solo base) A C#m D E
+
+E |---------------------------------------------|
+B |-5h7p5---------------------------------------|
+G |------6-----9-9------------------------------|
+D |-------7----9-9--7--6------------------------|
+A |----------------------7--9-------------------|
+E |---------------------------------------------|
+
+E |--------5--5--------5--5---------------------|
+B |-----7-----------7--------7--7p5-------------|
+G |--6-----------6-------------------6--9p7-----|
+D |---------------------------------------------|
+A |---------------------------------------------|
+E |---------------------------------------------|
+
+E |-------------------------------------------------|
+B |--------------------------------9--10--9---------|
+G |--------7-----------------------9--9---9---------|
+D |-----9-------------7--9----11--------------------|
+A |-11-------------9--------------------------------|
+E |------------10-----------------------------------|
+
+E |---------------------------------------------|
+B |---------------------------------------------|
+G |--7-x-7--6---9/11-----------------------------|
+D |--7-x-7----x-9/11-----------------------------|
+A |---------------------------------------------|
+E |---------------------------------------------|
+
+E |-----------------------12--12-------12--12-------12--12------12--12-------12--12-|
+B |------------10----12b----------12b----------12b----------12b---------12b---------|
+G |---9--11-------------------------------------------------------------------------|
+D |---------------------------------------------------------------------------------|
+A |---------------------------------------------------------------------------------|
+E |---------------------------------------------------------------------------------|
+
+E |---------------------------------------------|
+B |--12b--10b-9b--10--9--7--5-----7-------------|
+G |----------------------------6----------------|
+D |---------------------------------------------|
+A |---------------------------------------------|
+E |---------------------------------------------|
+
+      A                            C#m
+Minha vida é tão confusa quanto a América Central
+    E
+Por isso não me acuse de ser irracional
+  A              C#m
+Escute garota, façamos um trato)
+        E
+Você desliga o telefone se eu ficar muito abstrato
+   A                       C#m
+Eu posso ser um Beatle, um beatnik,
+      E        (riff 4)
+Ou um bitolado
+    A                C#m              E
+Mas eu não sou ator, eu não 'tô à toa do teu lado
+    A               C#m
+Por isso, garota, façamos um pacto)
+    E
+De não usar a highway pra causar impacto
+
+D
+ Cento e dez
+E
+ Cento e vinte
+F#m
+ Cento e sessenta
+D          E          F#m
+ Só pra ver até quando   o motor agüenta
+   D                         E
+Na boca, em vez de um beijo, um chiclete de menta
+     A              Bm             C#m D (riff 5) E
+E a sombra de um sorriso que eu deixei
+                     A     D  A       E
+Numas das curvas da highway
+          A     D  A       E
+Infinita highway
+          A     D  A       E    A
+Infinita highway

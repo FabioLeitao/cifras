@@ -1,0 +1,110 @@
+(intro)
+         A7                                 D        G   F#m Em D
+
+E |--4/5--5-5--0-0-0-0-2-2/3--3-3-3--2--0-|--------|-3-2-0----||
+B |---------------------------------------|-3------|-------3--||
+G |---------------------------------------|--------|----------||
+D |---------------------------------------|--------|----------||
+A |---------------------------------------|--------|----------||
+E |---------------------------------------|--------|----------||
+
+      D
+   É pena
+Que você pense que eu sou
+    A7/4   A7
+seu escravo
+Em                       A7
+Dizendo que eu sou seu marido
+	        D
+E não posso partir
+	 G
+Como as pedras imóveis na praia
+	        F#m	Bm
+Eu fico ao teu lado sem saber
+     A7/4 		  A7
+Dos amores que a vida me trouxe
+	      D       D7
+E não pude viver
+       G
+Eu perdi o meu medo
+		        D    D4
+Meu medo, meu medo da chuva
+         G
+Pois a chuva voltando pra terra
+	       D   D4  D
+Traz coisas do ar
+     G
+Aprendi o segredo
+			D    D4
+O segredo, o segredo da vida
+	 A7/4
+Vendo as pedras que choram
+   A7		   D
+sozinhas no mesmo lugar
+
+       D
+E não posso entender
+			    A7/4   A7
+Tanta gente aceitando a mentira
+Em
+De que os sonhos desfazem
+A7  		     D
+Aquilo que o padre falou
+       G
+Porque quando eu jurei
+		        F#m
+Meu amor eu traí a mim mesmo
+	Bm	   A7/4
+Hoje eu sei que ninguém nesse mundo
+   A7
+É feliz tendo amado uma vez
+    D   D7
+Uma vez
+      G
+Eu perdi o meu medo
+		        D     D4
+Meu medo, meu medo da chuva
+       G
+Pois a chuva voltando pra terra
+	       D   D4  D
+Traz coisas do ar
+     G
+Aprendi o segredo
+			D    D4
+O segredo, o segredo da vida
+	 A7/4
+Vendo as pedras que choram
+   A7		   D
+sozinhas no mesmo lugar
+	 A7/4
+Vendo as pedras que choram
+   A7		   D
+sozinhas no mesmo lugar
+	 A7/4
+Vendo as pedras que sonham
+   A7		   G      A#   D
+sozinhas no mesmo lugar
+
+(solo final)
+   D
+e|----------------------------------------|---2---||
+B|------------3-3----3^4-3------------3---|---3---||
+G|------0-2/4-----4--------4/2-0-2/4------|---2---||
+D|--0-2-----------------------------------|---0---||
+A|----------------------------------------|-------||
+E|----------------------------------------|-------||
+
+
+
+Legendas:
+
+A7   = x02020  ou  575755
+A7/4 = x02030  ou  575855
+A#   = 466544
+Bm   = x24432  ou  799777
+D    = xx0232  ou  x57775
+D4   = xx0233  ou  x57785
+D7   = xx0212  ou  x57575
+Em   = 022000  ou  x79987
+F#m  = 244222  ou  x 9 11 11 10 9
+G    = 320003  ou  320033  ou  355433

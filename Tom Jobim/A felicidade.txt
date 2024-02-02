@@ -1,0 +1,70 @@
+Tom: C
+		
+ Am7             Em7     Am7       D7/9 Em7
+Tristeza não tem fim  /      Felicidade sim
+ Am7             Em7     Am7       D7/9 Em7
+Tristeza não tem fim  /      Felicidade sim
+
+C7+    Bm7/5-           E7/9-   Am7      Am6    Gm7     C7
+A   felicidade é como a gota de orvalho numa pétala de flor
+F7+         Fm6        Am7            D7/9
+Brilha tranquila  /  Depois de leve oscila
+  Am7           D7/9      Am7
+E cai com uma lágrima de amor
+
+C7+                       Gm7         C7/9      F7+
+A felicidade do pobre parece / A grande ilusão do carnaval
+ Dm7       G7      C7+
+A gente trabalha o ano inteiro
+Gbm7/5-         B7/9-     Em7
+Por um momento de sonho pra fazer
+      Dº      Am7                    D7/9
+A fantasia de rei ou de pirata ou jardineira
+  Am7         D7/9       Am7
+Pra tudo se acabar na quarta feira
+
+C7+    Bm7/5-           E7/9-    Am7      Am6         Gm7  C7
+A   felicidade é como a pluma que o vento vai levando pelo ar
+F7+     Fm6 Am7             D7/9
+Voa tão leve mas tem a vida breve
+   Am7           D7/9      Am7
+Precisa que haja vento sem parar
+
+C7+
+A minha felicidade está sonhando
+Gm7       C7/9        F7+
+Nos olhos da minha namorada
+Dm7          G7/13   C7+
+É como esta noite passando, passando
+Gbm7/5-        B7/9-     Em7         Dº
+Em busca da madrugada / Falem baixo, por favor
+       Am7                    D7/9
+Pra que ela acorde alegre como o dia
+Am7        D7/9       Am7   D7/9     Am7    G7/13       C7+/9
+Oferecendo beijos de amor /         Tristeza    não tem  fim
+
+
+
+Legendas:
+
+A       = x02220  ou  577655
+Am6     = 577575
+Am7     = x02010  ou  575555
+B7/9-   = x2121x
+Bm7/5-  = x2323x
+C7      = x3231x  ou  x35353
+C7+     = x32000  ou  x3544x
+C7+/9   = x35433
+C7/9    = x3233x
+D7/9    = x5455x
+Dm7     = xx0211
+Ddim    = xx0101
+E7/9-   = x7676x
+Em      = 022000
+Em7     = 020000
+F7+     = 1x221x  ou  xx3210
+Fm6     = 133131
+G7      = 353433
+G7/13   = 3x345x
+Gbm7/5- = 2x221x
+Gm7     = 3x333x  ou  353333

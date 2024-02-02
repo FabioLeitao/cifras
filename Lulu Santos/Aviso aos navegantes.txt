@@ -1,0 +1,42 @@
+Tom: E
+		
+solo de introdução:
+
+
+e|-------------:-------------:--------------:-------------------
+b|-----------9-:-----------9-:--------------:----------10-12-9--
+g|----8-9------:----8-9------:----8-9----11-:-8-9-11-8----------
+D|-11-----11---:-11-----11---:-11-----11----:-------------------
+A|-------------:-------------:--------------:-------------------
+E|-------------:-------------:--------------:-------------------
+
+
+
+INTRO: : F#m79 : B7/13 A7M/B : G#m79 : C#7(b13) C#7 :
+
+F#m79                      B7/13     A7M/B
+Se existe alguém na linha, se tem alguém no ar
+       G#m79                    C#7(b13)  C#7
+Por favor responda agora não me faça esperar
+F#m79                  B7/13   A7M/B
+Há uma certa urgência, alô, informação
+   G#m79                      C#7(b13)       C#7
+Aqui sou eu sozinho, do outro lado não sei, não sei
+
+F#m79                B7/13     A7M/B
+Instalei uma antena, e lancei um sinal
+G#m79             C#7(b13)  C#7
+Nada no radar, procuro no dial
+F#m79                 B7/13        A7M/B
+Aviso aos navegantes, tem mais alguém aí
+   G#m79                      C#7(b13)    C#7
+Só ouço o som da minha própria voz a repetir
+
+F#m79     B7/13 A7M/B  G#m79 C#7(b13) C#7
+s .  o .  s .  soli - dão
+F#m79     B7/13 A7M/B  G#m79 C#7(b13) C#7
+s .  o .  s .  soli - dão
+
+Especial 1: :  Am7  :  A/B  : - volta intro etc...
+Especial 2: :  Am7  :  A/B  :  Em7  :  Am7  :  Em7  :  Am7  :
+:  F#m79  :  A7M/B  :  Bb7M/C  :  B7M/C#  : -  volta intro

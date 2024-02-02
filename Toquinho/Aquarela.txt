@@ -1,0 +1,105 @@
+Tom: C
+		
+(intro)
+
+G G/B G/C G/D     Riff 1 (4x) +  Riff 2 + Riff 1
+
+G G/B C C/D
+Numa folha qualquer eu desenho um sol amarelo
+E com cinco ou seis retas é fácil fazer um castelo
+Corro o lápis em torno da mão e eu me dou uma luva
+E se faço chover, com dois riscos tenho um guarda-chuva
+
+Em Em/D C7M F7M
+Se um pinguinho de tinta cai num pedacinho azul do papel
+
+G G/B C C/D
+Num instante imagino uma linda gaivota a voar no céu
+
+G D/F# C/E D7
+Vai voando, contornando a imensa curva, norte e sul
+Vou com ela viajando no Havaí, Pequim ou Istambul
+
+G B7 Em A7 C/D D7
+Pinto um barco à vela, branco, navegando, é tanto céu e mar num beijo azul
+
+G D/F# C/E D7
+Entre as nuvens vem surgindo um lindo avião rosa e grená
+Tudo em volta colorindo com suas luzes a piscar
+
+G B7 Em A7 C/D D7
+Basta imaginar e ele está partindo, sereno e lindo
+e se a gente quiser ele vai pousar
+
+( G G/B C C/D )
+
+G G/B C C/D
+Numa folha qualquer eu desenho um navio de partida
+Com alguns bons amigos bebendo de bem com a vida
+De uma América a outra eu consigo passar num segundo
+Giro um simples compasso e num círculo eu faço um mundo
+
+Em Em/D C F7M
+Um menino caminha e caminhando chega no muro
+
+G G/B C C/D
+E ali logo em frente a esperar pela gente o futuro está
+
+G D/F# C/E D7
+E o futuro é uma astronave que tentamos pilotar
+Não tem tempo, nem piedade, nem tem hora de voltar
+
+G B7 Em A7 C/D D7
+Sem pedir licença muda a nossa vida
+E depois convida a rir ou chorar
+
+G D/F# C/E D7
+Nesta estrada não nos cabe conhecer ou ver o que virá
+E o fim dela ninguém sabe bem ao certo onde vai dar
+
+G B7 Em A7 C/D D7
+Vamos todos numa linda passarela de uma aquarela
+Que um dia, enfim, descolorirá
+
+( G G/B C C/D )
+Numa folha qualquer eu desenho um sol amarelo (que descolorirá)
+E com cinco ou seis retas é fácil fazer um castelo (que descolorirá)
+Giro um simples compasso e num círculo eu faço o mundo (que descolorirá)
+
+
+Legendas:
+
+G    = 3xx033
+G/B  = x2x033
+G/C  = x3x033
+G/D  = xx0033
+A7   = x02020
+B7   = x21202  ou  x24242
+C    = x3x010  ou  x3444x  ou x32010
+C/D  = xx0010  ou  x4444x
+C/E  = 0xx010  ou  032010
+C7M  = x3x000  ou  x32000
+D/F# = xx4232  ou  2xx232
+D7   = xx0212
+Em   = xx2000
+Em/D = xx0000
+F7M  = xx3210
+
+
+Riff 1
+  G                  G/B                G/C                G/D
+e|---------3--------|---------3--------|---------3--------|---------3--------|
+B|-----3-----3---3--|-----3-----3---3--|-----3-----3---3--|-----3-----3---3--|
+G|---0---0-----0----|---0---0-----0----|---0---0-----0----|---0---0-----0----|
+D|------------------|------------------|------------------|-0----------------|
+A|------------------|-2----------------|-3----------------|------------------|
+E|-3----------------|------------------|------------------|------------------|
+   
+Riff 2
+  Em                 Em/D               C7M                F7M
+e|---------0--------|---------0--------|---------0--------|---------0--------|
+B|-----0-----0---0--|-----0-----0---0--|-----0-----0---0--|-----1-----1---1--|
+G|---0---0-----0----|---0---0-----0----|---0---0-----0----|---2---2-----2----|
+D|-2----------------|-0----------------|------------------|-3----------------|
+A|------------------|------------------|-3----------------|------------------|
+E|------------------|------------------|------------------|------------------|
