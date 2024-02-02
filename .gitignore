@@ -6,6 +6,25 @@ __pycache__/
 # C extensions
 *.so
 
+# Media files
+*.mp3
+*.avi
+*.wma
+*.ogg
+*.mpg
+*.mpeg
+*.qt
+*.mov
+*.wav
+*.aup
+*.pdf
+*.bak
+*.bkp
+*Thumbs.db
+~$*
+*~*#
+.DS_Store
+
 # Compressed
 *.zip
 *.7z
