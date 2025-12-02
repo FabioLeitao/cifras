@@ -1,5 +1,8 @@
 Tom: C
 
+C/G  Em7  F/C  G/D
+C/G  Em7  F/C  Dm9(5-)
+
 C/G          Em7    Am           Em7
 Da janela lateral do quarto de dormir
 F/C          G/D      Em7       Am
@@ -60,11 +63,11 @@ C/G        Em7   C/G
 Você não quer acreditar
 
 
-Dm9(5-)  F5/C
-e--0------x--
-B--1------x--
-G--2------10-
-D--0------10-
-A--x------8--
-E--x------8--
+  Dm9(5-)  F5/C
+e|--0-------x--
+B|--1-------x--
+G|--2------10--
+D|--0------10--
+A|--x-------8--
+E|--x-------8--
 
